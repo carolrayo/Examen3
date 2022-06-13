@@ -29,3 +29,35 @@
 
 ### Y para mostrar contenedores creados en ejecución o parados:
 ![imagen](https://user-images.githubusercontent.com/91874629/173304271-f02af217-d332-4a4b-b2f2-c40465422ece.png)
+
+
+# Apartado 2
+
+### Lo primero que debemos hacer es login en Docker Hub para eso utilizamos este comando y ponemos nuestras credenciales:
+![imagen](https://user-images.githubusercontent.com/91874629/173305168-bcff29c9-003c-4093-bb30-0222cef9d2f8.png)
+
+### Comando vi Dockerfile
+
+
+### Utilizamos el comando vi Dockerfile para editar nuestro archivo:
+![imagen](https://user-images.githubusercontent.com/91874629/173306993-75271987-c5fa-42b8-b5e9-d33a181d7212.png)
+
+### Comprobamos que tenemos nuestro Dockerfile
+![imagen](https://user-images.githubusercontent.com/91874629/173307315-94440a87-4f57-4ef8-81bc-efdad6409794.png)
+
+### Hacemos tag: 
+![imagen](https://user-images.githubusercontent.com/91874629/173308750-839afe9e-8208-46f7-b6a3-8dd4365925f2.png)
+
+### Comprobamos que se ha creado 
+![imagen](https://user-images.githubusercontent.com/91874629/173308916-ad14afcd-75dd-4e88-b284-65ed30d28637.png)
+
+### Hacemos tag a la imagen
+![imagen](https://user-images.githubusercontent.com/91874629/173309470-311397d2-6a69-4474-ab43-6f4da0fd61d8.png)
+
+### Para finalizar hacemos un push a Docker Hub
+![imagen](https://user-images.githubusercontent.com/91874629/173309679-7cb3b78b-932e-4b02-a308-865f415a5e79.png)
+
+### Comprobamos que se ha subido la imagen a Docker Hub
+![imagen](https://user-images.githubusercontent.com/91874629/173309943-9236b352-7dbd-49ca-9d33-3d1511092bef.png)
+
+
