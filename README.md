@@ -60,4 +60,4 @@
 ### Comprobamos que se ha subido la imagen a Docker Hub
 ![imagen](https://user-images.githubusercontent.com/91874629/173309943-9236b352-7dbd-49ca-9d33-3d1511092bef.png)
 
-
+### Aquí tenemos la imagen en Docker Hub: https://hub.docker.com/r/cdelis/my_dockerfile
